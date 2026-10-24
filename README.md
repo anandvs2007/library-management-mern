@@ -2,9 +2,9 @@
 
 A full-stack catalogue where a librarian can add, edit, delete, issue and return books.
 
-- **Live app:** _add your frontend link_
-- **API:** _add your Render link_
-- **Repository:** _add your GitHub link_
+- **Live app:** https://library-app-x899.onrender.com
+- **API:** https://library-api-r1qz.onrender.com
+- **Repository:** https://github.com/anandvs2007/library-management-mern
 
 ## Problem statement
 Small libraries often track books on paper, so it is hard to know which titles are available. This app lets staff catalogue books and issue or return them so availability is always up to date.
